@@ -1,0 +1,14 @@
+C:\Users\Hi\Desktop\Documents\OOP\files\bin\Debug\net8.0\ProjectTeamLab.exe
+C:\Users\Hi\Desktop\Documents\OOP\files\bin\Debug\net8.0\ProjectTeamLab.deps.json
+C:\Users\Hi\Desktop\Documents\OOP\files\bin\Debug\net8.0\ProjectTeamLab.runtimeconfig.json
+C:\Users\Hi\Desktop\Documents\OOP\files\bin\Debug\net8.0\ProjectTeamLab.dll
+C:\Users\Hi\Desktop\Documents\OOP\files\bin\Debug\net8.0\ProjectTeamLab.pdb
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\ProjectTeamLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\ProjectTeamLab.AssemblyInfoInputs.cache
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\ProjectTeamLab.AssemblyInfo.cs
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\ProjectTeamLab.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\ProjectTeamLab.dll
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\refint\ProjectTeamLab.dll
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\ProjectTeamLab.pdb
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\ProjectTeamLab.genruntimeconfig.cache
+C:\Users\Hi\Desktop\Documents\OOP\files\obj\Debug\net8.0\ref\ProjectTeamLab.dll
